@@ -3,7 +3,7 @@ Programs that I've made in Python
 
 ## Tic Tac Toe / X's and O's
 #### Program Description:
-A Tic Tac Toe /X's and O's game made in Python.
+A **Tic Tac Toe / X's and O's** game made in Python.
 #### Example of Display:
 <pre>
      X | O | O
@@ -15,7 +15,7 @@ A Tic Tac Toe /X's and O's game made in Python.
 
 ## Battleship!
 #### Program Description:
-A simple Battleship game made in Python.
+A simple **Battleship!** game made in Python.
 #### Example of Display:
 <pre>
     Let's play Battleship!
